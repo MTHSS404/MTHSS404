@@ -54,19 +54,15 @@ Atualmente, estou construindo minha base em programação, desenvolvendo projeto
 
 ---
 
+
 ## Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MTHSS404&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTHSS404&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=MTHSS404&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MTHSS404&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições do GitHub"/>
 
 </div>
+
 
 ---
 
