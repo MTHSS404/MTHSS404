@@ -1,10 +1,10 @@
-<div align="center">
+ <div align="center">
 
 # Matheus Felipe
 
-### Software Engineering Student | Aspiring Software Developer
+### Estudante de Engenharia de Software | Desenvolvedor em formação
 
-Building things, solving problems and learning something new every day.
+Transformando ideias em código, desenvolvendo soluções e aprendendo continuamente.
 
 <br>
 
@@ -14,22 +14,22 @@ Building things, solving problems and learning something new every day.
 
 ---
 
-## About Me
+## Sobre mim
 
-I'm a Software Engineering student interested in software development, problem-solving and technology.
+Sou estudante de Engenharia de Software, interessado em tecnologia, desenvolvimento de sistemas e resolução de problemas.
 
-Currently focused on building a solid foundation in programming, developing practical projects and improving my skills as a developer.
+Atualmente, estou construindo minha base em programação, desenvolvendo projetos práticos e aprimorando minhas habilidades para evoluir como desenvolvedor.
 
-- 🎓 Software Engineering student.
-- 💻 Currently learning Python and software development.
-- 🧠 Interested in backend development and databases.
-- 🚀 Focused on building practical projects and growing as a developer.
+- 🎓 Estudante de Engenharia de Software.
+- 💻 Atualmente estudando Python e desenvolvimento de software.
+- 🧠 Interessado em desenvolvimento backend e bancos de dados.
+- 🚀 Focado em desenvolver projetos práticos e adquirir experiência.
 
 ---
 
-## Technologies & Tools
+## Tecnologias e ferramentas
 
-**Currently working with:**
+**Tecnologias que estou estudando e utilizando:**
 
 <div align="left">
 
@@ -44,17 +44,17 @@ Currently focused on building a solid foundation in programming, developing prac
 
 ---
 
-## Featured Projects
+## Projetos em destaque
 
-| Project | Description | Technologies |
+| Projeto | Descrição | Tecnologias |
 |---|---|---|
-| FinanceTrack | Personal finance management application. | Python |
-| Cafeteria Neko | Inventory management system for a cafeteria. | Python, SQLite, Tkinter |
-| Master Drinks | Minimalist and modern portfolio website. | HTML, CSS |
+| FinanceTrack | Aplicação para gerenciamento de finanças pessoais. | Python |
+| Cafeteria Neko | Sistema de gerenciamento de estoque para cafeteria. | Python, SQLite, Tkinter |
+| Master Drinks | Site de apresentação com identidade visual moderna e minimalista. | HTML, CSS |
 
 ---
 
-## GitHub Statistics
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -72,8 +72,8 @@ Currently focused on building a solid foundation in programming, developing prac
 
 <div align="center">
 
-### Always learning. Always building.
+### Sempre aprendendo. Sempre desenvolvendo.
 
-*One project at a time.*
+*Um projeto de cada vez.*
 
 </div>
